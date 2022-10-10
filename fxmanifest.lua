@@ -1,5 +1,5 @@
-name "cards"
-author "KamuiKody"
+name "metaverse_pokemontcg"
+author "xhackax47"
 
 ui_page "html/index.html"
 
